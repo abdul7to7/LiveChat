@@ -12,5 +12,10 @@
 
 **Chat Container**
 
+![image](https://github.com/abdul7to7/LiveChat/assets/92265851/4c709dce-9547-4453-a713-8db8a198ef15)
+
+
+**Chat**
+
 ![image](https://github.com/abdul7to7/LiveChat/assets/92265851/1b58ed45-dfb2-4bab-91fd-926289f6868a)
 
